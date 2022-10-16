@@ -93,7 +93,7 @@ header button{
     background: black;
 }
 .hero{
-    background-image: url('/images/img4.JPG');
+    background-image: url('https://res.cloudinary.com/dcixuz7p1/image/upload/v1665949216/img4_re4zt3.jpg');
     background-size: cover;
     height: 600px;
     width: 100%;
